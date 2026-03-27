@@ -1,34 +1,6 @@
 ﻿## Overview
 
-This repository contains the list of file formats (electronic documents, forms, spreadsheets, presentations) supported by ONLYOFFICE editors and describes the properties of each file format type.
-
-The repository is used in:
-- [Document Server integration example](https://github.com/ONLYOFFICE/document-server-integration)
-- [ONLYOFFICE add-on for Thunderbird](https://github.com/ONLYOFFICE/onlyoffice-thunderbird)
-- [ONLYOFFICE addon for Plone](https://github.com/ONLYOFFICE/onlyoffice-plone)
-- [ONLYOFFICE app for Box](https://github.com/ONLYOFFICE/onlyoffice-box)
-- [ONLYOFFICE app for Confluence Cloud](https://github.com/ONLYOFFICE/onlyoffice-confluence-cloud)
-- [ONLYOFFICE app for Dropbox](https://github.com/ONLYOFFICE/onlyoffice-dropbox)
-- [ONLYOFFICE app for Mattermost](https://github.com/ONLYOFFICE/onlyoffice-mattermost)
-- [ONLYOFFICE app for Miro](https://github.com/ONLYOFFICE/onlyoffice-miro)
-- [ONLYOFFICE app for Nextcloud](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
-- [ONLYOFFICE app for Odoo](https://github.com/ONLYOFFICE/onlyoffice_odoo)
-- [ONLYOFFICE app for ownCloud](https://github.com/ONLYOFFICE/onlyoffice-owncloud)
-- [ONLYOFFICE app for Slack](https://github.com/ONLYOFFICE/onlyoffice-slack)
-- [ONLYOFFICE bot for Telegram](https://github.com/ONLYOFFICE/onlyoffice-telegram)
-- [ONLYOFFICE DocSpace](https://github.com/ONLYOFFICE/DocSpace)
-- [ONLYOFFICE Docs Integration Java SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-java)
-- [ONLYOFFICE Docs Integration PHP SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-php)
-- [ONLYOFFICE extension for Directus](https://github.com/ONLYOFFICE/onlyoffice-directus)
-- [ONLYOFFICE module for HumHub](https://github.com/ONLYOFFICE/onlyoffice-humhub)
-- [ONLYOFFICE plugin for Redmine](https://github.com/ONLYOFFICE/onlyoffice-redmine)
-- [ONLYOFFICE Docs plugin for WordPress](https://github.com/ONLYOFFICE/onlyoffice-wordpress)
-
-## Project info
-
-ONLYOFFICE Docs (Document Server): [github.com/ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)
-
-Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
+This repository contains the list of file formats (electronic documents, forms, spreadsheets, presentations) supported by Euro-Office editors and describes the properties of each file format type.
 
 ## Supported formats
 
